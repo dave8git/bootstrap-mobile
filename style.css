@@ -67,6 +67,19 @@ i.fab {
     text-align: center;
 }
 
+.p-15 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.align-left {
+    text-align: left;
+    padding: 0;
+}
+
+.list-inline {
+    text-align: right;
+}
 @media (max-width: 1024px) {
     .w-50 {
         max-width: 25%!important;
